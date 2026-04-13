@@ -1,0 +1,22 @@
+{
+  "base_price": 1950,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Comprehensive dining market data for Edmond, Oklahoma. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
+  "config_name": "All Restaurants in Edmond, Oklahoma, US",
+  "export_job_id": "c192f98e-f86f-4d70-a8aa-f6791b931dc7",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 470579,
+  "location_name": "Edmond",
+  "location_type": "city",
+  "repo_name": "all-restaurants-in-edmond-oklahoma-us-sample-470579",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/470579/beamstation_470579_restaurants-us-ok_SAMPLE_DIST.csv",
+  "sample_pct": 9.84,
+  "sample_records": 30,
+  "sample_sha256": "78a7a880b062cde32a7ff3e06d1599c4d61b3cb34298a5a3cf9ee581e0a4d271",
+  "sample_size_bytes": 123972,
+  "total_records": 305,
+  "updated_at": "2026-04-07T11:12:14.047033+00:00"
+}
