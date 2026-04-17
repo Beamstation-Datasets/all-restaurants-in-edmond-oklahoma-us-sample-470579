@@ -11,7 +11,7 @@
 | Category | Restaurants |
 | Full dataset size | 305 records |
 | Free sample size | 30 records (9.84%) |
-| Last export | 2026-04-07T11:12:14.047033+00:00 |
+| Last export | 2026-04-14T11:06:58.402470+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-edmond-oklahoma-us-sample-470579/releases/download/sample-latest/beamstation_470579_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
