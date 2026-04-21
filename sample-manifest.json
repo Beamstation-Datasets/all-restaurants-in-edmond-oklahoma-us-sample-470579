@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b3d2ec84-cb22-465f-aa16-40b5d1b1b9b1",
+  "export_job_id": "aa2bb7c0-6dc3-4cfd-bc61-8eec4b38950a",
   "id_short": 470579,
-  "published_at": "2026-04-17T19:31:31Z",
+  "published_at": "2026-04-21T19:27:11Z",
   "repo_name": "all-restaurants-in-edmond-oklahoma-us-sample-470579",
   "sample_asset_name": "beamstation_470579_restaurants-us-ok_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/470579/beamstation_470579_restaurants-us-ok_SAMPLE_DIST.csv",
-  "sample_records": 30,
-  "sample_sha256": "ddf47d97dc344d139566c1a966e1c60857ce6ef47dee164a62b2f87bea2d5bf4",
-  "sample_size_bytes": 121452,
-  "total_records": 305
+  "sample_records": 15,
+  "sample_sha256": "9d7ff7be69141910705588ff896e6972e94647dc4abbd4242cbc3021db099b5e",
+  "sample_size_bytes": 68528,
+  "total_records": 153
 }
