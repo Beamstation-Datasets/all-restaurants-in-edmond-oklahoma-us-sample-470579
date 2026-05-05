@@ -1,6 +1,6 @@
 # All Restaurants in Edmond, Oklahoma, US
 
-> Free BeamStation sample export with 32 rows and masked direct-contact fields.
+> Free BeamStation sample export with 33 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `470579` |
 | Location | Edmond |
 | Category | Restaurants |
-| Full dataset size | 324 records |
-| Free sample size | 32 records (9.88%) |
-| Last export | 2026-04-28T12:15:08.464620+00:00 |
+| Full dataset size | 338 records |
+| Free sample size | 33 records (9.76%) |
+| Last export | 2026-05-05T18:01:48.928272+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-edmond-oklahoma-us-sample-470579/releases/download/sample-latest/beamstation_470579_restaurants-us-ok_SAMPLE_DIST.csv) |
 
 ## What is in this sample
